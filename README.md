@@ -53,9 +53,6 @@ npm install
 3. Run Development Server
 npm start
 
-Application runs at:
-
-http://localhost:3000
 🧠 How It Works
 All data (users, jobs, applications) is stored in browser localStorage
 React Context API manages authentication state
