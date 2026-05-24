@@ -6,9 +6,6 @@ HireNest is a role-based Job Portal web application built using React.js and Loc
 
 🔗 https://job-portal-web-develaopmeny.vercel.app/
 
-Example:
-https://your-project-name.vercel.app
-
 ✨ Features
 👤 Candidate Features
 Browse job listings
